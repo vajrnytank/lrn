@@ -1,4 +1,4 @@
-replicaCount: 3
+replicaCount: 18
 
 image:
   repository: vajrnytank/tomcat-demo
